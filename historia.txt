@@ -1,1 +1,3 @@
 Este es un simple texto plano.
+
+Cuando aprendes git, parece fscil, por que lo enseñan bien
